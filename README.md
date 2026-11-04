@@ -12,7 +12,7 @@ Patangwala.in is a modern digital brand presence for an Indian wholesale kite bu
 ![CSS3](https://img.shields.io/badge/CSS3-0B1B3A?style=flat-square&logo=css3&logoColor=7CC4EC)
 ![JavaScript](https://img.shields.io/badge/Vanilla_JavaScript-0B1B3A?style=flat-square&logo=javascript&logoColor=F28C1B)
 
-[Visit the website](https://patangwala.in/) &nbsp;|&nbsp; [WhatsApp](https://wa.me/918866159111) &nbsp;|&nbsp; [Report an issue](https://github.com/webers-x-world/patangwala.in/issues)
+[Visit the website](https://github.com/webers-x-world/patangwala.in) &nbsp;|&nbsp; [WhatsApp](https://wa.me/918866159111) &nbsp;|&nbsp; [Report an issue](https://github.com/webers-x-world/patangwala.in/issues)
 
 </div>
 
@@ -178,7 +178,7 @@ GitHub Pages is not recommended for running this commercial business website, be
 | --- | --- |
 | Phone | [+91 8866159111](tel:+918866159111) |
 | WhatsApp | [https://wa.me/918866159111](https://wa.me/918866159111) |
-| Website | [https://patangwala.in/](https://patangwala.in/) |
+| Website | [https://github.com/webers-x-world/patangwala.in](https://github.com/webers-x-world/patangwala.in) |
 
 ---
 
